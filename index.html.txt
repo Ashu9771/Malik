@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instant Personal Loan - Apply Now</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #ffffff;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #fff;
+    }
+    header {
+      background: #b30000;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+      border-radius: 0 0 10px 10px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+    section {
+      margin-top: 20px;
+    }
+    .info {
+      font-size: 16px;
+      margin: 10px 0;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #b30000;
+    }
+    .whatsapp-btn {
+      display: block;
+      width: 100%;
+      text-align: center;
+      background-color: #25D366;
+      color: #fff;
+      padding: 15px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 18px;
+      margin-top: 30px;
+    }
+    .whatsapp-btn:hover {
+      background-color: #1ebe5b;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 12px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Instant Personal Loan</h1>
+    </header>
+    <section>
+      <p class="info">Loan Amount: <span class="highlight">₹5,000 - ₹50,000</span></p>
+      <p class="info">Interest Rate: <span class="highlight">2% per year</span></p>
+      <p class="info">Repayment Time: <span class="highlight">Up to 2 years</span></p>
+      <p class="info">Documents Required: <span class="highlight">Aadhaar + PAN only</span></p>
+      <p class="info">No CIBIL required</p>
+      <p class="info">All India Service</p>
+      <p class="info">Loan Approved in <span class="highlight">Just 5 Minutes</span></p>
+    </section>
+    <a class="whatsapp-btn" href="https://wa.me/9117039163" target="_blank">Apply on WhatsApp</a>
+    <footer>
+      &copy; 2025 Instant Loan Services. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
